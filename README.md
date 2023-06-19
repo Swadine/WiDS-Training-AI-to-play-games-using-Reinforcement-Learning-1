@@ -1,3 +1,5 @@
+# *My solutions to weekly assignments are in the respective branches.*
+
 # Winter of Data Science: Reinforcement Learning
 
 This is the resources and code repository for the Winter of Data Science Project on playing games using Reinforcement Learning.
